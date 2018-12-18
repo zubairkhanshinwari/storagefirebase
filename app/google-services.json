@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "735264319797",
+    "firebase_url": "https://saveandreterivedata.firebaseio.com",
+    "project_id": "saveandreterivedata",
+    "storage_bucket": "saveandreterivedata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735264319797:android:3629a766ae7734c1",
+        "android_client_info": {
+          "package_name": "com.shinwari.saveandreterivedatefromfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735264319797-50234qmadkegtuuq0op2uiqgen60299j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shinwari.saveandreterivedatefromfirebase",
+            "certificate_hash": "f6002bacfbe00f901b01d0d1d4c35a6fdcd4a01d"
+          }
+        },
+        {
+          "client_id": "735264319797-kfsmjsh1j8ru68bisa0tcgvj6m1rcoi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnvn3Z_2ZRyBH1F1hYKk3TZwcE0kVYhiw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735264319797-kfsmjsh1j8ru68bisa0tcgvj6m1rcoi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735264319797:android:e85143b2138921bc",
+        "android_client_info": {
+          "package_name": "com.shinwari.storagefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735264319797-ri5cjqfu72nljsif79pf5omj5pp8lr4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shinwari.storagefirebase",
+            "certificate_hash": "f6002bacfbe00f901b01d0d1d4c35a6fdcd4a01d"
+          }
+        },
+        {
+          "client_id": "735264319797-kfsmjsh1j8ru68bisa0tcgvj6m1rcoi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnvn3Z_2ZRyBH1F1hYKk3TZwcE0kVYhiw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735264319797-kfsmjsh1j8ru68bisa0tcgvj6m1rcoi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
